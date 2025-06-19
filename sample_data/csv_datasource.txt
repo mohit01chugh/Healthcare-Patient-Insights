@@ -1,0 +1,31 @@
+PatientID,Indication,DateOfBirth,Ethnicity,PayerType,Treatment,PharmacyType,ProviderType,AdmissionDate,DischargeDate,Cost,TreatmentOutcome,PatientDisposition,IsReadmissionFlag
+1,High Blood Pressure,1965-03-12,White,Commercial,Diet & Exercise,Retail,Clinic,2023-01-05,2023-01-08,1200.50,Success,Discharged,No
+2,Diabetes,1978-07-20,Black,Medicare,Pills,Hospital,Specialist,2023-02-10,2023-02-15,2500.75,Success,Discharged,No
+3,Asthma,2005-11-01,Hispanic,Medicaid,Inhaler,Retail,Specialist,2023-03-15,2023-03-17,800.00,Success,Discharged,No
+4,High Blood Pressure,1950-09-25,Asian,Commercial,Pills,Retail,Clinic,2023-04-01,2023-04-03,950.00,Success,Discharged,No
+5,Arthritis,1972-01-30,White,Commercial,Phys Therapy,Retail,Specialist,2023-05-20,2023-05-22,950.25,Success,Discharged,No
+6,Depression,1990-06-18,Black,Medicaid,Talk Therapy,N/A,Specialist,2023-06-01,2023-06-03,700.00,Success,Discharged,No
+7,Diabetes,1948-02-05,White,Medicare,Pills,Hospital,Specialist,2023-07-10,2023-07-15,2800.00,Success,Discharged,Yes
+8,Migraine,1985-10-03,Hispanic,Commercial,Pain Pills,Retail,Specialist,2023-08-22,2023-08-23,400.00,Success,Discharged,No
+9,High Blood Pressure,1960-04-12,Asian,Medicare,Diet & Exercise,Retail,Clinic,2023-09-01,2023-09-03,1100.00,Success,Discharged,No
+10,Diabetes,1995-12-08,White,Commercial,Insulin,Specialty,Specialist,2023-10-14,2023-10-16,3500.00,Success,Discharged,No
+11,High Blood Pressure,1970-02-28,Black,Medicaid,Pills,Retail,Clinic,2023-11-01,2023-11-04,1100.00,Success,Discharged,No
+12,Diabetes,1968-09-15,White,Medicare,Pills,Hospital,Specialist,2023-12-05,2023-12-10,3000.00,Success,Discharged,Yes
+13,Asthma,2010-04-20,Asian,Commercial,Inhaler,Retail,Specialist,2024-01-01,2024-01-03,750.00,Success,Discharged,No
+14,High Blood Pressure,1955-08-10,Hispanic,Medicaid,Diet & Exercise,Retail,Clinic,2024-02-15,2024-02-17,850.00,Success,Discharged,No
+15,Arthritis,1963-03-05,Black,Commercial,Pain Relief,Retail,Specialist,2024-03-10,2024-03-12,850.00,Success,Discharged,No
+16,Depression,1988-11-25,White,Medicare,Pills,N/A,Specialist,2024-04-01,2024-04-05,1000.00,Success,Discharged,No
+17,Pneumonia,1935-01-01,Asian,Medicare,Oxygen,Hospital,Hospital,2024-05-20,2024-05-28,7500.00,Failure,Expired,N/A
+18,Diabetes,1992-07-07,Black,Commercial,Pills,Retail,Specialist,2024-06-10,2024-06-12,2100.00,Success,Discharged,No
+19,Kidney Disease,1975-04-01,White,Medicaid,Diet,N/A,Specialist,2024-07-01,2024-07-03,600.00,Success,Discharged,No
+20,High Blood Pressure,2000-09-10,Hispanic,Commercial,Pills,Retail,Clinic,2024-08-01,2024-08-03,980.00,Success,Discharged,No
+21,High Blood Pressure,1958-06-01,White,Medicare,Pills,Retail,Clinic,2024-09-01,2024-09-03,900.00,Success,Discharged,No
+22,Diabetes,1980-11-11,Asian,Commercial,Pills,Retail,Specialist,2024-10-10,2024-10-14,2200.00,Success,Discharged,Yes
+23,Asthma,2000-03-03,Black,Medicaid,Inhaler,Hospital,Specialist,2024-11-01,2024-11-05,1200.00,Success,Discharged,No
+24,Heart Disease,1962-07-22,White,Medicare,Bypass Surgery,Hospital,Hospital,2024-12-01,2024-12-10,30000.00,Success,Discharged,No
+25,Arthritis,1970-05-15,Hispanic,Commercial,Shots,Retail,Specialist,2025-01-05,2025-01-07,1500.00,Success,Discharged,No
+26,Depression,1998-02-10,Asian,Medicaid,Pills,N/A,Specialist,2025-02-01,2025-02-03,650.00,Success,Discharged,No
+27,Pneumonia,1940-10-01,Black,Medicare,Ventilator,Hospital,Hospital,2025-03-10,2025-03-25,9000.00,Failure,Expired,N/A
+28,High Blood Pressure,1982-04-05,White,Commercial,Diet & Exercise,Clinic,Clinic,2025-04-15,2025-04-16,700.00,Success,Discharged,No
+29,Diabetes,1968-09-20,Hispanic,Medicare,Pills,Hospital,Specialist,2025-05-01,2025-05-07,2700.00,Success,Discharged,No
+30,Heart Disease,1990-01-25,Black,Medicaid,Stent,Hospital,Hospital,2025-06-01,2025-06-04,10000.00,Success,Discharged,No
