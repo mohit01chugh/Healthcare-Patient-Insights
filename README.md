@@ -3,8 +3,8 @@
 
 **A new Patient Analytics Dashboard 📈 to help us understand patient data better.**       
                 
-          To provide quick insights ✨ into things like patient groups 👨‍👩‍👧‍👦, treatment results ✅, and costs 💲, 
-           to support data-driven decision-making 🧠.
+          To provide quick insights ✨ into things like patient groups 👨‍👩‍👧‍👦, treatment results ✅, 
+          and costs 💲,to support data-driven decision-making 🧠.
 
 🎯 **Task**
 
@@ -14,7 +14,7 @@
         readmission rates 🔄, length of stay ⏱️, treatment efficacy comparisons ⚖️, and mortality rates 💔,         
         applying various filters for detailed analysis 🔬.
 
-**Action**
+💻**Action**
 
 **I began by meticulously breaking down each required KPI 🧩 to understand its underlying data requirements and relationships**. 
         
