@@ -1,7 +1,7 @@
 
 📊 **Situation** 
 
-**A new Patient Analytics Dashboard 📈 to help us understand patient data better.**       
+**A New Patient Analytics Dashboard 📈 to help us understand patient data better.**       
                 
           To provide quick insights ✨ into things like patient groups 👨‍👩‍👧‍👦, treatment results ✅, 
           and costs 💲,to support data-driven decision-making 🧠.
@@ -16,7 +16,7 @@
 
 💻**Action**
 
-**I began by meticulously breaking down each required KPI 🧩 to understand its underlying data requirements and relationships**. 
+**I began by breaking down each required KPI 🧩 to understand its underlying data requirements and relationships.** 
         
         This involved identifying all necessary data points like age 👵👴, ethnicity 🧑‍🤝‍🧑, payer type 💳, 
         indication 🤒, treatment 💊, outcomes 👍, and costs 💵. 
